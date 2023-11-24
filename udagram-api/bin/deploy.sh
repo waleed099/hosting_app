@@ -3,7 +3,7 @@ eb create udagramfullstack-env --region us-west-2
 eb use udagramfullstack-env
 eb deploy  
 eb health
-# eb open
+eb open
 
 # if you want read the logs
 # eb logs

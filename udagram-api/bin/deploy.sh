@@ -1,5 +1,3 @@
-# eb init udagram_fullstack --platform node.js --region us-west-2
-# eb create udagramfullstack-env --region us-west-2
 eb use udagramfullstack-env
 eb deploy  
 eb health
